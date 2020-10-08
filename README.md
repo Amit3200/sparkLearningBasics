@@ -1,2 +1,2 @@
 # sparkLearningBasics
-Learning Spark and Scala Docs
+Learning Spark and Scala Basics
